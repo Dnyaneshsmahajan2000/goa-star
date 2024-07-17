@@ -1,0 +1,7 @@
+
+/*# sourceMappingURL=custom.min.css.map */
+.form-control:focus {
+    border-color: #007bff; /* Change border color on focus */
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25); /* Change box shadow on focus */
+    /* Add any additional styles you want to apply on focus */
+}
